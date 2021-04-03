@@ -1,0 +1,18 @@
+//Javascript Document
+var dianji=0
+window.onload=function(){
+               var buhao = document.getElementByld("buhao");
+               var hao = document.getelementByld("hao");
+               buaho.onclick=function(){
+                              Dianji++;
+                              if(Dianji==1){
+                                                                 alert("大哥");
+                   }else if(Dianji==2){
+                                                                 alert("小弟“);
+                                                                 Dianji=1
+                   }
+
+                  }
+                  hao.onclick=function(){
+                                   alert("晓得了");
+                  }

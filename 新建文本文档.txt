@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<head>
+
+<meta name="description" content="www.yuyang.com">
+<meta name="keywords" content="www.yuyang.com">
+<meta charset="utf-8">
+<meta name="viewport" conetent="width=device-width,initial-scale=1"/>
+<title> 愚人节快乐</title>
+<link hre"style/main.css"rel="stylesheet">
+</head>
+<style>
+
+</style>
+<boby>
+                 <div class="box"align="center">
+                                 <p>小乔</p>
+                                 <h1>daqiao</h1>
+                                 <img src="images/1.jpg">
+                                 <div class="bottom">
+                                                  <div class="left"id="hao">好</div>
+                                                  <div class="right"id="buhao">不好</div>
+                                  <div>
+                  <div>
+</boby>
+                  <script type="text/javascript" src="js/yiqi.js"></script>
+</html>
